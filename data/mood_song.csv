@@ -1,0 +1,307 @@
+mood,song,artist,language,category
+Happy,Happy,Pharrell Williams,English,Energy
+Happy,Can't Stop the Feeling!,Justin Timberlake,English,Energy
+Happy,Uptown Funk,Mark Ronson ft Bruno Mars,English,Energy
+Happy,On Top of the World,Imagine Dragons,English,Energy
+Happy,Levitating,Dua Lipa,English,Energy
+Happy,Sunroof,Nicky Youre & dazy,English,Energy
+Happy,Walking on Sunshine,Katrina and the Waves,English,Energy
+Happy,Good Time,Owl City & Carly Rae Jepsen,English,Energy
+Happy,Ilahi,Arijit Singh,Hindi,Energy
+Happy,Badtameez Dil,Benny Dayal,Hindi,Energy
+Happy,London Thumakda,Labh Janjua,Hindi,Energy
+Happy,Zinda,Siddharth Mahadevan,Hindi,Energy
+Sad,Let It Be,The Beatles,English,Calm
+Sad,Fix You,Coldplay,English,Calm
+Sad,All of Me,John Legend,English,Calm
+Sad,Halo,Beyonce,English,Calm
+Sad,Someone Like You,Adele,English,Calm
+Sad,Lost Stars,Adam Levine,English,Calm
+Sad,Stay With Me,Sam Smith,English,Calm
+Sad,Iktara,Kavita Seth,Hindi,Calm
+Sad,Phir Le Aya Dil,Arijit Singh,Hindi,Calm
+Sad,Hasi,Shreya Ghoshal,Hindi,Calm
+Sad,Tu Jaane Na,Atif Aslam,Hindi,Calm
+Sad,Tera Ban Jaunga,Akhil Sachdeva & Tulsi Kumar,Hindi,Calm
+Stressed,Fight Song,Rachel Platten,English,Motivation
+Stressed,Roar,Katy Perry,English,Motivation
+Stressed,Stronger,Kelly Clarkson,English,Motivation
+Stressed,Hall of Fame,The Script,English,Motivation
+Stressed,Unstoppable,Sia,English,Motivation
+Stressed,Eye of the Tiger,Survivor,English,Motivation
+Stressed,Believer,Imagine Dragons,English,Motivation
+Stressed,Don't Stop Me Now,Queen,English,Motivation
+Stressed,Chak Lein De,Kailash Kher,Hindi,Motivation
+Stressed,Lakshya,Shankar Mahadevan,Hindi,Motivation
+Stressed,Kar Har Maidaan Fateh,Sukhwinder Singh,Hindi,Motivation
+Stressed,Aashayein,KK,Hindi,Motivation
+Tired,Weightless,Marconi Union,English,Focus
+Tired,River Flows in You,Yiruma,English,Focus
+Tired,Clair de Lune,Claude Debussy,English,Focus
+Tired,Sunrise,Norah Jones,English,Focus
+Tired,Banana Pancakes,Jack Johnson,English,Focus
+Tired,Holocene,Bon Iver,English,Focus
+Tired,Here Comes the Sun,The Beatles,English,Focus
+Tired,Kun Faya Kun,A R Rahman,Hindi,Focus
+Tired,Safarnama,Lucky Ali,Hindi,Focus
+Tired,Khwaabon Ke Parindey,Alyssa Mendonsa & Mohit Chauhan,Hindi,Focus
+Tired,Aazaadiyan,Amit Trivedi,Hindi,Focus
+Tired,Phir Se Ud Chala,Mohit Chauhan,Hindi,Focus
+Motivated,High Hopes,Panic! at the Disco,English,Energy
+Motivated,Best Day of My Life,American Authors,English,Energy
+Motivated,Shut Up and Dance,Walk the Moon,English,Energy
+Motivated,Don't Stop Believin',Journey,English,Motivation
+Motivated,The Greatest,Sia,English,Motivation
+Motivated,Good Feeling,Flo Rida,English,Energy
+Motivated,Can't Hold Us,Macklemore & Ryan Lewis,English,Energy
+Motivated,Apna Time Aayega,Ranveer Singh,Hindi,Motivation
+Motivated,Dangal,Daler Mehndi,Hindi,Energy
+Motivated,Jai Ho,A R Rahman,Hindi,Energy
+Motivated,Challa Main Lad Jaana,Romy,Hindi,Motivation
+Motivated,Patakha Gudi,Nooran Sisters,Hindi,Energy
+Happy,Shake It Off,Taylor Swift,English,Energy
+Happy,Dynamite,BTS,English,Energy
+Happy,Good as Hell,Lizzo,English,Energy
+Happy,I'm Still Standing,Elton John,English,Energy
+Happy,September,"Earth, Wind & Fire",English,Energy
+Happy,24K Magic,Bruno Mars,English,Energy
+Happy,Cake by the Ocean,DNCE,English,Energy
+Happy,Sugar,Maroon 5,English,Energy
+Happy,Feel It Still,Portugal. The Man,English,Energy
+Happy,I Gotta Feeling,The Black Eyed Peas,English,Energy
+Happy,Kala Chashma,"Amar Arshi, Badshah & Neha Kakkar",Hindi,Energy
+Happy,Balam Pichkari,Vishal Dadlani & Shalmali Kholgade,Hindi,Energy
+Happy,Gallan Goodiyaan,"Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan & Sukhwinder Singh",Hindi,Energy
+Happy,Senorita,"Farhan Akhtar, Hrithik Roshan & Abhay Deol",Hindi,Energy
+Happy,Morni Banke,Guru Randhawa & Neha Kakkar,Hindi,Energy
+Happy,Aankh Marey,"Mika Singh, Neha Kakkar & Kumar Sanu",Hindi,Energy
+Happy,Dil Dhadakne Do,Joi Barua & Suraj Jagan,Hindi,Energy
+Happy,Nachde Ne Saare,"Jasleen Royal, Harshdeep Kaur & Siddharth Mahadevan",Hindi,Energy
+Happy,Ude Dil Befikre,Benny Dayal,Hindi,Energy
+Happy,Kar Gayi Chull,"Badshah, Fazilpuria, Sukriti Kakar & Neha Kakkar",Hindi,Energy
+Sad,The Scientist,Coldplay,English,Calm
+Sad,Someone You Loved,Lewis Capaldi,English,Calm
+Sad,Say You Won't Let Go,James Arthur,English,Calm
+Sad,Photograph,Ed Sheeran,English,Calm
+Sad,Let Her Go,Passenger,English,Calm
+Sad,Skinny Love,Birdy,English,Calm
+Sad,A Thousand Years,Christina Perri,English,Calm
+Sad,The Night We Met,Lord Huron,English,Calm
+Sad,When I Was Your Man,Bruno Mars,English,Calm
+Sad,lovely,Billie Eilish & Khalid,English,Calm
+Sad,Agar Tum Saath Ho,Alka Yagnik & Arijit Singh,Hindi,Calm
+Sad,Channa Mereya,Arijit Singh,Hindi,Calm
+Sad,Jeena Jeena,Atif Aslam,Hindi,Calm
+Sad,Saibo,Shreya Ghoshal & Tochi Raina,Hindi,Calm
+Sad,Abhi Mujh Mein Kahin,Sonu Nigam,Hindi,Calm
+Sad,Main Rahoon Ya Na Rahoon,Armaan Malik,Hindi,Calm
+Sad,Humnava Mere,Jubin Nautiyal,Hindi,Calm
+Sad,O Re Piya,Rahat Fateh Ali Khan,Hindi,Calm
+Sad,Phir Kabhi,Arijit Singh,Hindi,Calm
+Sad,Pani Da Rang,Ayushmann Khurrana,Hindi,Calm
+Stressed,Rise Up,Andra Day,English,Motivation
+Stressed,The Climb,Miley Cyrus,English,Motivation
+Stressed,Brave,Sara Bareilles,English,Motivation
+Stressed,Skyscraper,Demi Lovato,English,Motivation
+Stressed,Titanium,David Guetta ft Sia,English,Motivation
+Stressed,Whatever It Takes,Imagine Dragons,English,Motivation
+Stressed,Human,Rag'n'Bone Man,English,Motivation
+Stressed,Unwritten,Natasha Bedingfield,English,Motivation
+Stressed,Keep Your Head Up,Andy Grammer,English,Motivation
+Stressed,Beautiful Day,U2,English,Motivation
+Stressed,Chak De India,"Sukhwinder Singh, Salim Merchant & Marianne D'Cruz",Hindi,Motivation
+Stressed,Ziddi Dil,Vishal Dadlani,Hindi,Motivation
+Stressed,Brothers Anthem,Vishal Dadlani,Hindi,Motivation
+Stressed,Ruk Jana Nahin,Kishore Kumar,Hindi,Motivation
+Stressed,Aarambh Hai Prachand,Piyush Mishra,Hindi,Motivation
+Stressed,Yun Hi Chala Chal,"Udit Narayan, Hariharan & Kailash Kher",Hindi,Motivation
+Stressed,Badal Pe Paon Hai,Hema Sardesai,Hindi,Motivation
+Stressed,Besabriyaan,Armaan Malik,Hindi,Motivation
+Stressed,Parwah Nahin,Siddharth Basrur,Hindi,Motivation
+Stressed,Zindagi Ki Yahi Reet Hai,Kishore Kumar,Hindi,Motivation
+Tired,Time,Hans Zimmer,English,Focus
+Tired,Experience,Ludovico Einaudi,English,Focus
+Tired,Nuvole Bianche,Ludovico Einaudi,English,Focus
+Tired,Comptine d'un autre été,Yann Tiersen,English,Focus
+Tired,Gymnopédie No.1,Erik Satie,English,Focus
+Tired,Spiegel im Spiegel,Arvo Pärt,English,Focus
+Tired,Intro,The xx,English,Focus
+Tired,Ocean Eyes,Billie Eilish,English,Focus
+Tired,Dreams,Fleetwood Mac,English,Focus
+Tired,Bloom,The Paper Kites,English,Focus
+Tired,Shaam,Amit Trivedi,Hindi,Focus
+Tired,Maula Mere Maula,Roop Kumar Rathod,Hindi,Focus
+Tired,Pehla Nasha,Udit Narayan & Sadhana Sargam,Hindi,Focus
+Tired,Tu Hi Hai,Arijit Singh,Hindi,Focus
+Tired,Nazm Nazm,Arko,Hindi,Focus
+Tired,Kabira,Rekha Bhardwaj & Tochi Raina,Hindi,Focus
+Tired,Dil Kyun Yeh Mera,KK,Hindi,Focus
+Tired,Khairiyat,Arijit Singh,Hindi,Focus
+Tired,Yeh Haseen Wadiyan,S P Balasubrahmanyam,Hindi,Focus
+Tired,Bolna,Arijit Singh & Asees Kaur,Hindi,Focus
+Motivated,Thunder,Imagine Dragons,English,Energy
+Motivated,Good Life,OneRepublic,English,Motivation
+Motivated,The Middle,Jimmy Eat World,English,Motivation
+Motivated,Viva La Vida,Coldplay,English,Energy
+Motivated,On My Way,"Alan Walker, Sabrina Carpenter & Farruko",English,Energy
+Motivated,Feel So Close,Calvin Harris,English,Energy
+Motivated,Centuries,Fall Out Boy,English,Energy
+Motivated,Wake Me Up,Avicii,English,Energy
+Motivated,Adventure of a Lifetime,Coldplay,English,Energy
+Motivated,Can't Stop,Red Hot Chili Peppers,English,Energy
+Motivated,Malhari,Vishal Dadlani,Hindi,Energy
+Motivated,Zingaat,Ajay-Atul,Hindi,Energy
+Motivated,Jabra Fan,Nakash Aziz,Hindi,Energy
+Motivated,Rang De Basanti,"Daler Mehndi, Chaitanya Saraswat & Naresh Iyer",Hindi,Energy
+Motivated,Chale Chalo,A R Rahman & Srinivas,Hindi,Motivation
+Motivated,Sultan,Sukhwinder Singh & Shadab Faridi,Hindi,Energy
+Motivated,Jagga Jiteya,Daler Mehndi,Hindi,Motivation
+Motivated,Yeh Hausla,Shankar Mahadevan,Hindi,Motivation
+Motivated,Sadda Haq,Mohit Chauhan,Hindi,Energy
+Motivated,Jeetne Ke Liye,KK,Hindi,Motivation
+Mood_Songs_NewMoods1,,,,
+mood,song,artist,language,category
+Confident,Confident,Demi Lovato,English,Energy
+Confident,Run the World (Girls),Beyonce,English,Energy
+Confident,Me Too,Meghan Trainor,English,Energy
+Confident,The Man,Taylor Swift,English,Motivation
+Confident,Can't Stop the Rock,AC/DC,English,Energy
+Confident,High Hopes,Panic! at the Disco,English,Motivation
+Confident,Swag Se Swagat,Vishal Dadlani & Neha Bhasin,Hindi,Energy
+Confident,Desi Girl,Sunidhi Chauhan & Vishal Dadlani,Hindi,Energy
+Confident,Sher Aaya Sher,Divine,Hindi,Motivation
+Confident,Aaj Ki Party,Mika Singh,Hindi,Energy
+Confident,Ghoomar,Shreya Ghoshal,Hindi,Energy
+Confident,Jee Karda,Labh Janjua & Suzanne D'Mello,Hindi,Energy
+Angry,Uprising,Muse,English,Motivation
+Angry,Numb,Linkin Park,English,Motivation
+Angry,Since U Been Gone,Kelly Clarkson,English,Motivation
+Angry,Break Free,Ariana Grande,English,Energy
+Angry,Bad Reputation,Joan Jett,English,Motivation
+Angry,Stronger,Kanye West,English,Motivation
+Angry,Dhan Te Nan,Vishal Dadlani,Hindi,Energy
+Angry,Aazadi,Dub Sharma & Divine,Hindi,Motivation
+Angry,Bhaag Milkha Bhaag,Siddharth Mahadevan,Hindi,Motivation
+Angry,Sadda Haq,Mohit Chauhan,Hindi,Motivation
+Angry,Ziddi Dil,Vishal Dadlani,Hindi,Motivation
+Angry,Parwah Nahin,Siddharth Basrur,Hindi,Motivation
+Disgust,Come Away With Me,Norah Jones,English,Calm
+Disgust,Better Together,Jack Johnson,English,Calm
+Disgust,Make You Feel My Love,Adele,English,Calm
+Disgust,Yellow,Coldplay,English,Calm
+Disgust,Turning Page,Sleeping at Last,English,Calm
+Disgust,Put Your Records On,Corinne Bailey Rae,English,Calm
+Disgust,Raabta,Arijit Singh,Hindi,Calm
+Disgust,Pehli Dafa,Atif Aslam,Hindi,Calm
+Disgust,Tum Se Hi,Mohit Chauhan,Hindi,Calm
+Disgust,Hawayein,Arijit Singh,Hindi,Calm
+Disgust,Muskurane,Arijit Singh,Hindi,Calm
+Disgust,Aaj Din Chadheya,Rahat Fateh Ali Khan,Hindi,Calm
+Neutral,Experience,Ludovico Einaudi,English,Focus
+Neutral,Una Mattina,Ludovico Einaudi,English,Focus
+Neutral,Canon in D,Johann Pachelbel,English,Focus
+Neutral,The Departure,Max Richter,English,Focus
+Neutral,Your Hand in Mine,Explosions in the Sky,English,Focus
+Neutral,Hoppipolla,Sigur Ros,English,Focus
+Neutral,Love You Zindagi,Jasleen Royal,Hindi,Focus
+Neutral,Zehnaseeb,Shekhar Ravjiani & Chinmayi Sripada,Hindi,Focus
+Neutral,Kabhi Kabhi Aditi,Rashid Ali,Hindi,Focus
+Neutral,Behti Hawa Sa Tha Woh,Shaan,Hindi,Focus
+Neutral,Matargashti,Mohit Chauhan,Hindi,Focus
+Neutral,Safarnama,Lucky Ali,Hindi,Focus
+Surprise,Wake Me Up Before You Go-Go,Wham!,English,Energy
+Surprise,Treasure,Bruno Mars,English,Energy
+Surprise,Dance Monkey,Tones and I,English,Energy
+Surprise,Good Feeling,Flo Rida,English,Energy
+Surprise,Shut Up and Dance,Walk the Moon,English,Energy
+Surprise,Don't Stop the Music,Rihanna,English,Energy
+Surprise,Abhi Toh Party Shuru Hui Hai,Badshah & Aastha Gill,Hindi,Energy
+Surprise,Let's Nacho,"Nucleya, Benny Dayal & Badshah",Hindi,Energy
+Surprise,Tamma Tamma Again,"Bappi Lahiri, Badshah, Anuradha Paudwal & Bindu",Hindi,Energy
+Surprise,Dil Chori,"Yo Yo Honey Singh, Simar Kaur & Ishers",Hindi,Energy
+Surprise,Tattad Tattad,Aditya Narayan,Hindi,Energy
+Surprise,Ghagra,Rekha Bhardwaj & Vishal Dadlani,Hindi,Energy
+Fear,Three Little Birds,Bob Marley & The Wailers,English,Calm
+Fear,Count on Me,Bruno Mars,English,Calm
+Fear,Lean on Me,Bill Withers,English,Calm
+Fear,You Raise Me Up,Josh Groban,English,Calm
+Fear,Beautiful,Christina Aguilera,English,Motivation
+Fear,Better Place,Rachel Platten,English,Motivation
+Fear,Namo Namo,Amit Trivedi,Hindi,Calm
+Fear,Tu Jo Mila,KK,Hindi,Calm
+Fear,Aas Paas Khuda,Rahat Fateh Ali Khan,Hindi,Calm
+Fear,Yeh Jo Des Hai Tera,A R Rahman,Hindi,Calm
+Fear,Main Rahoon Ya Na Rahoon,Armaan Malik,Hindi,Motivation
+Fear,Kar Har Maidaan Fateh,Sukhwinder Singh & Shreya Ghoshal,Hindi,Motivation
+Confident,Confident,Demi Lovato,English,Energy
+Confident,Run the World (Girls),Beyonce,English,Energy
+Confident,Me Too,Meghan Trainor,English,Energy
+Confident,The Man,Taylor Swift,English,Motivation
+Confident,Can't Stop the Rock,AC/DC,English,Energy
+Confident,High Hopes,Panic! at the Disco,English,Motivation
+Confident,Swag Se Swagat,Vishal Dadlani & Neha Bhasin,Hindi,Energy
+Confident,Desi Girl,Sunidhi Chauhan & Vishal Dadlani,Hindi,Energy
+Confident,Sher Aaya Sher,Divine,Hindi,Motivation
+Confident,Aaj Ki Party,Mika Singh,Hindi,Energy
+Confident,Ghoomar,Shreya Ghoshal,Hindi,Energy
+Confident,Jee Karda,Labh Janjua & Suzanne D'Mello,Hindi,Energy
+Angry,Uprising,Muse,English,Motivation
+Angry,Numb,Linkin Park,English,Motivation
+Angry,Since U Been Gone,Kelly Clarkson,English,Motivation
+Angry,Break Free,Ariana Grande,English,Energy
+Angry,Bad Reputation,Joan Jett,English,Motivation
+Angry,Stronger,Kanye West,English,Motivation
+Angry,Dhan Te Nan,Vishal Dadlani,Hindi,Energy
+Angry,Aazadi,Dub Sharma & Divine,Hindi,Motivation
+Angry,Bhaag Milkha Bhaag,Siddharth Mahadevan,Hindi,Motivation
+Angry,Sadda Haq,Mohit Chauhan,Hindi,Motivation
+Angry,Ziddi Dil,Vishal Dadlani,Hindi,Motivation
+Angry,Parwah Nahin,Siddharth Basrur,Hindi,Motivation
+Disgust,Come Away With Me,Norah Jones,English,Calm
+Disgust,Better Together,Jack Johnson,English,Calm
+Disgust,Make You Feel My Love,Adele,English,Calm
+Disgust,Yellow,Coldplay,English,Calm
+Disgust,Turning Page,Sleeping at Last,English,Calm
+Disgust,Put Your Records On,Corinne Bailey Rae,English,Calm
+Disgust,Raabta,Arijit Singh,Hindi,Calm
+Disgust,Pehli Dafa,Atif Aslam,Hindi,Calm
+Disgust,Tum Se Hi,Mohit Chauhan,Hindi,Calm
+Disgust,Hawayein,Arijit Singh,Hindi,Calm
+Disgust,Muskurane,Arijit Singh,Hindi,Calm
+Disgust,Aaj Din Chadheya,Rahat Fateh Ali Khan,Hindi,Calm
+Neutral,Experience,Ludovico Einaudi,English,Focus
+Neutral,Una Mattina,Ludovico Einaudi,English,Focus
+Neutral,Canon in D,Johann Pachelbel,English,Focus
+Neutral,The Departure,Max Richter,English,Focus
+Neutral,Your Hand in Mine,Explosions in the Sky,English,Focus
+Neutral,Hoppipolla,Sigur Ros,English,Focus
+Neutral,Love You Zindagi,Jasleen Royal,Hindi,Focus
+Neutral,Zehnaseeb,Shekhar Ravjiani & Chinmayi Sripada,Hindi,Focus
+Neutral,Kabhi Kabhi Aditi,Rashid Ali,Hindi,Focus
+Neutral,Behti Hawa Sa Tha Woh,Shaan,Hindi,Focus
+Neutral,Matargashti,Mohit Chauhan,Hindi,Focus
+Neutral,Safarnama,Lucky Ali,Hindi,Focus
+Surprise,Wake Me Up Before You Go-Go,Wham!,English,Energy
+Surprise,Treasure,Bruno Mars,English,Energy
+Surprise,Dance Monkey,Tones and I,English,Energy
+Surprise,Good Feeling,Flo Rida,English,Energy
+Surprise,Shut Up and Dance,Walk the Moon,English,Energy
+Surprise,Don't Stop the Music,Rihanna,English,Energy
+Surprise,Abhi Toh Party Shuru Hui Hai,Badshah & Aastha Gill,Hindi,Energy
+Surprise,Let's Nacho,"Nucleya, Benny Dayal & Badshah",Hindi,Energy
+Surprise,Tamma Tamma Again,"Bappi Lahiri, Badshah, Anuradha Paudwal & Bindu",Hindi,Energy
+Surprise,Dil Chori,"Yo Yo Honey Singh, Simar Kaur & Ishers",Hindi,Energy
+Surprise,Tattad Tattad,Aditya Narayan,Hindi,Energy
+Surprise,Ghagra,Rekha Bhardwaj & Vishal Dadlani,Hindi,Energy
+Fear,Three Little Birds,Bob Marley & The Wailers,English,Calm
+Fear,Count on Me,Bruno Mars,English,Calm
+Fear,Lean on Me,Bill Withers,English,Calm
+Fear,You Raise Me Up,Josh Groban,English,Calm
+Fear,Beautiful,Christina Aguilera,English,Motivation
+Fear,Better Place,Rachel Platten,English,Motivation
+Fear,Namo Namo,Amit Trivedi,Hindi,Calm
+Fear,Tu Jo Mila,KK,Hindi,Calm
+Fear,Aas Paas Khuda,Rahat Fateh Ali Khan,Hindi,Calm
+Fear,Yeh Jo Des Hai Tera,A R Rahman,Hindi,Calm
+Fear,Main Rahoon Ya Na Rahoon,Armaan Malik,Hindi,Motivation
+Fear,Kar Har Maidaan Fateh,Sukhwinder Singh & Shreya Ghoshal,Hindi,Motivation
